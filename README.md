@@ -5,7 +5,7 @@ PolynomialCalculator is a Java-based application designed to perform a wide rang
 
 Key Features:
 - Perform essential polynomial operations: addition, subtraction, multiplication, division, derivation, and integration.
-- User-friendly interface built with Java Spring.
+- User-friendly interface built with Java Swing.
 - Input validation and parsing using pattern recognition to ensure correct polynomial formatting.
 
 <img width="179" alt="{77FE52DB-ECF9-4300-B761-954D3C052AB3}" src="https://github.com/user-attachments/assets/840be304-044d-4b16-815d-7b6553d8c094" />
@@ -13,8 +13,8 @@ Key Features:
 
 - Follows the MVC architecture with separation of concerns:
     - **Model**: Handles the core logic and polynomial operations.
-    - **View**: The user interface implemented with Spring.
+    - **View**: The user interface implemented with Swing.
     - **Controller**: Manages the interaction between the UI and the backend.
 - Comprehensive unit testing with JUnit to validate polynomial operations and ensure robustness.
 
-Technologies: Java, Spring Framework, JUnit
+Technologies: Java, Swing Framework, JUnit
